@@ -1,0 +1,161 @@
+2010,White,Female,Diseases of Heart,5351
+2010,White,Female,Malignant Neoplasms (cancer),3438
+2010,Black,Female,Diseases of Heart,2282
+2010,Black,Female,Malignant Neoplasms (cancer),1768
+2010,Hispanic,Female,Diseases of Heart,1316
+2010,Hispanic,Female,Malignant Neoplasms (cancer),1045
+2010,White,Female,Influenza (Flu) and Pneumonia,707
+2010,White,Female,Chronic Lower Respiratory Diseases,501
+2010,Asian,Female,Malignant Neoplasms (cancer),415
+2010,Asian,Female,Diseases of Heart,394
+2010,Black,Female,Diabetes Mellitus,384
+2010,White,Female,Cerebrovascular Disease (stroke),382
+2010,Black,Female,Influenza (Flu) and Pneumonia,275
+2010,Black,Female,Cerebrovascular Disease (stroke),259
+2010,White,Female,Diabetes Mellitus,258
+2010,Black,Female,Essential Hypertension and Renal Diseases,252
+2010,White,Female,Alzheimer's Disease,247
+2010,Hispanic,Female,Influenza (Flu) and Pneumonia,228
+2010,White,Female,Essential Hypertension and Renal Diseases,219
+2010,Hispanic,Female,Diabetes Mellitus,219
+2010,Black,Female,Chronic Lower Respiratory Diseases,206
+2010,Hispanic,Female,Cerebrovascular Disease (stroke),168
+2010,White,Female,Accidents Except Drug Poisoning,163
+2010,Hispanic,Female,Chronic Lower Respiratory Diseases,156
+2010,Black,Female,Human Immunodeficiency Virus (HIV) Disease,152
+2010,White,Female,Leukemia,139
+2010,White,Female,Non-Hodgkins's Lymphoma,127
+2010,White,Female,Septicemia,107
+2010,Hispanic,Female,Essential Hypertension and Renal Diseases,95
+2010,White,Female,Nephritis and Nephrotic Syndromes,90
+2010,Asian,Female,Cerebrovascular Disease (stroke),89
+2010,Black,Female,Alzheimer's Disease,88
+2010,Unknown,Female,Diseases of Heart,86
+2010,Black,Female,Nephritis and Nephrotic Syndromes,86
+2010,Hispanic,Female,Human Immunodeficiency Virus (HIV) Disease,79
+2010,White,Female,Mental and Behavioral Disorders due to use of or Accidental Poisoning by Psychoactive Substances Excluding Alcohol and Tobacco,75
+2010,White,Female,Atherosclerosis,74
+2010,Asian,Female,Influenza (Flu) and Pneumonia,74
+2010,Hispanic,Female,Alzheimer's Disease,71
+2010,White,Female,Insitu or Benign / Uncertain Neoplasms,69
+2010,White,Female,Chronic Liver Disease and Cirrhosis,67
+2010,Black,Female,Certain Conditions Originating in the Perinatal Period,66
+2010,Black,Female,Mental and Behavioral Disorders due to use of or Accidental Poisoning by Psychoactive Substances Excluding Alcohol and Tobacco,63
+2010,White,Female,Intentional Self-Harm (Suicide),61
+2010,Hispanic,Female,Accidents Except Drug Poisoning,58
+2010,White,Female,Parkinson's Disease,55
+2010,Black,Female,Septicemia,55
+2010,Asian,Female,Diabetes Mellitus,51
+2010,Hispanic,Female,Mental and Behavioral Disorders due to use of or Accidental Poisoning by Psychoactive Substances Excluding Alcohol and Tobacco,50
+2010,Hispanic,Female,Chronic Liver Disease and Cirrhosis,49
+2010,Hispanic,Female,Nephritis and Nephrotic Syndromes,48
+2010,Black,Female,Non-Hodgkins's Lymphoma,48
+2010,Black,Female,Leukemia,47
+2010,Black,Female,Assault (Homicide),45
+2010,Black,Female,Chronic Liver Disease and Cirrhosis,43
+2010,Hispanic,Female,Leukemia,42
+2010,Hispanic,Female,Congenital Malformations and Chromosomal Abnormalities,42
+2010,Hispanic,Female,Viral Hepatitis,40
+2010,Hispanic,Female,Non-Hodgkins's Lymphoma,40
+2010,Hispanic,Female,Certain Conditions Originating in the Perinatal Period,38
+2010,Unknown,Female,Malignant Neoplasms (cancer),35
+2010,Hispanic,Female,Septicemia,33
+2010,Black,Female,Viral Hepatitis,33
+2010,Black,Female,Congenital Malformations and Chromosomal Abnormalities,33
+2010,Asian,Female,Essential Hypertension and Renal Diseases,33
+2010,White,Female,Viral Hepatitis,32
+2010,White,Female,Congenital Malformations and Chromosomal Abnormalities,32
+2010,White,Female,Certain Conditions Originating in the Perinatal Period,31
+2010,Asian,Female,Chronic Lower Respiratory Diseases,28
+2010,Hispanic,Female,Intentional Self-Harm (Suicide),27
+2010,Black,Female,Insitu or Benign / Uncertain Neoplasms,26
+2010,Asian,Female,Accidents Except Drug Poisoning,25
+2010,White,Female,Human Immunodeficiency Virus (HIV) Disease,24
+2010,Hispanic,Female,Insitu or Benign / Uncertain Neoplasms,23
+2010,Black,Female,Atherosclerosis,23
+2010,White,Female,Peptic Ulcer,22
+2010,White,Female,Aortic Aneurysm and Dissection,22
+2010,Hispanic,Female,Assault (Homicide),22
+2010,White,Female,Cholelithiasis and Disorders of Gallbladder,19
+2010,Black,Female,Intentional Self-Harm (Suicide),19
+2010,Black,Female,Anemias,19
+2010,Black,Female,Pregnancy and Childbirth,18
+2010,Asian,Female,Certain Conditions Originating in the Perinatal Period,18
+2010,Asian,Female,Intentional Self-Harm (Suicide),17
+2010,White,Female,Mental and Behavioral Disorders due to use of Alcohol,16
+2010,Hispanic,Female,Parkinson's Disease,16
+2010,Black,Female,Aortic Aneurysm and Dissection,16
+2010,Hispanic,Female,Atherosclerosis,15
+2010,Black,Female,Peptic Ulcer,15
+2010,Asian,Female,Nephritis and Nephrotic Syndromes,15
+2010,Black,Female,Maternal Causes,14
+2010,Asian,Female,Alzheimer's Disease,14
+2010,White,Female,Assault (Homicide),13
+2010,Asian,Female,Non-Hodgkins's Lymphoma,13
+2010,Hispanic,Female,Pregnancy and Childbirth,11
+2010,Black,Female,Mental and Behavioral Disorders due to use of Alcohol,11
+2010,Black,Female,Complications of Medical and Surgical Care,11
+2010,Asian,Female,Leukemia,11
+2010,Hispanic,Female,Cholelithiasis and Disorders of Gallbladder,10
+2010,Asian,Female,Chronic Liver Disease and Cirrhosis,10
+2010,Hispanic,Female,Peptic Ulcer,9
+2010,Hispanic,Female,Maternal Causes,9
+2010,Black,Female,Parkinson's Disease,9
+2010,Asian,Female,Insitu or Benign / Uncertain Neoplasms,9
+2010,Black,Female,Cholelithiasis and Disorders of Gallbladder,7
+2010,Asian,Female,Septicemia,7
+2010,Asian,Female,Congenital Malformations and Chromosomal Abnormalities,7
+2010,Asian,Female,Assault (Homicide),7
+2010,White,Female,Anemias,6
+2010,Unknown,Female,Diabetes Mellitus,6
+2010,Unknown,Female,Chronic Lower Respiratory Diseases,6
+2010,Unknown,Female,Cerebrovascular Disease (stroke),6
+2010,Hispanic,Female,Mental and Behavioral Disorders due to use of Alcohol,6
+2010,Black,Female,Meningitis,6
+2010,White,Female,Pneumonitis due to Solids and Liquids,5
+2010,White,Female,Complications of Medical and Surgical Care,5
+2010,Unknown,Female,Essential Hypertension and Renal Diseases,5
+2010,Unknown,Female,Certain Conditions Originating in the Perinatal Period,5
+2010,Hispanic,Female,Aortic Aneurysm and Dissection,5
+2010,Asian,Female,Viral Hepatitis,5
+2010,Unknown,Female,Influenza (Flu) and Pneumonia,4
+2010,Hispanic,Female,Meningitis,4
+2010,Hispanic,Female,Complications of Medical and Surgical Care,4
+2010,Black,Female,Tuberculosis (TB),4
+2010,Black,Female,Pneumonitis due to Solids and Liquids,4
+2010,Asian,Female,Pregnancy and Childbirth,4
+2010,Asian,Female,Peptic Ulcer,4
+2010,Asian,Female,Parkinson's Disease,4
+2010,Asian,Female,Maternal Causes,4
+2010,Asian,Female,Atherosclerosis,4
+2010,Asian,Female,Aortic Aneurysm and Dissection,4
+2010,White,Female,Meningitis,3
+2010,Unknown,Female,Viral Hepatitis,3
+2010,Unknown,Female,Insitu or Benign / Uncertain Neoplasms,3
+2010,Other,Female,Accidents Except Drug Poisoning,3
+2010,Asian,Female,Human Immunodeficiency Virus (HIV) Disease,3
+2010,White,Female,Pregnancy and Childbirth,2
+2010,White,Female,Maternal Causes,2
+2010,White,Female,All Censored Causes,2
+2010,Unknown,Female,Septicemia,2
+2010,Unknown,Female,Nephritis and Nephrotic Syndromes,2
+2010,Unknown,Female,Atherosclerosis,2
+2010,Unknown,Female,Accidents Except Drug Poisoning,2
+2010,Hispanic,Female,Tuberculosis (TB),2
+2010,Hispanic,Female,Pneumonitis due to Solids and Liquids,2
+2010,Black,Female,All Censored Causes,2
+2010,Asian,Female,Cholelithiasis and Disorders of Gallbladder,2
+2010,Asian,Female,All Censored Causes,2
+2010,White,Female,Tuberculosis (TB),1
+2010,Unknown,Female,Pregnancy and Childbirth,1
+2010,Unknown,Female,Parkinson's Disease,1
+2010,Unknown,Female,Mental and Behavioral Disorders due to use of or Accidental Poisoning by Psychoactive Substances Excluding Alcohol and Tobacco,1
+2010,Unknown,Female,Maternal Causes,1
+2010,Unknown,Female,Leukemia,1
+2010,Unknown,Female,Intentional Self-Harm (Suicide),1
+2010,Unknown,Female,Alzheimer's Disease,1
+2010,Hispanic,Female,Anemias,1
+2010,Hispanic,Female,All Censored Causes,1
+2010,Asian,Female,Tuberculosis (TB),1
+2010,Asian,Female,Mental and Behavioral Disorders due to use of or Accidental Poisoning by Psychoactive Substances Excluding Alcohol and Tobacco,1
+2010,Asian,Female,Anemias,1
