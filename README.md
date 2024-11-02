@@ -1,13 +1,11 @@
-# ADS500B 
+# ADS500B Data Science Programming
 
-Coding Assignments
+This repository consists of previous work, including assignments and learning materials.
 
-Module 2: UNIX Command
+## Modules
 
-Module 3: Python in Jupyter Notebook
-
-Module 4: R
-
-Module 5: SQL
-
-Module 6: Python and R
+- **Module 2:** UNIX Command
+- **Module 3:** Python in Jupyter Notebook
+- **Module 4:** R
+- **Module 5:** SQL
+- **Module 6:** Python and R
